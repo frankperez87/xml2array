@@ -1,4 +1,4 @@
-# XML to Array conversion
+# Easy XML to Array Conversion
 This package allows you to easily convert a xml string to a associative array. 
 
 ### Example Usage
