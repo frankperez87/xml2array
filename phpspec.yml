@@ -1,0 +1,4 @@
+suites:
+  xml2array_suite:
+    namespace: XML2Array
+    src_path: src

@@ -1,0 +1,13 @@
+{
+    "name": "frankperez87/xml2array",
+    "description": " This will convert a Simple XML string to a associative array.",
+    "license": "MIT",
+    "require-dev": {
+        "phpspec/phpspec": "2.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "XML2Array\\": "src/XML2Array"
+        }
+    }
+}
